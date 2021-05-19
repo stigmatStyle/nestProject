@@ -3,9 +3,9 @@
 /node_modules
 
 # env
-.dev.env
-.prod.env
-.env
+.dev.env*
+.prod.env*
+.env*
 
 # Logs
 logs
